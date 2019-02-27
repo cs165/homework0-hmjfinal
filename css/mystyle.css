@@ -1,0 +1,24 @@
+body {
+    background: rgb(36, 34, 34);
+}
+
+div {
+    border: 50px;
+    border-radius: 5px;
+    position: 80px;
+    background-size: 100% auto;
+    width: 65%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #f6fdf6;
+}
+
+p {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 15px;
+    padding-left: 26px;
+}
